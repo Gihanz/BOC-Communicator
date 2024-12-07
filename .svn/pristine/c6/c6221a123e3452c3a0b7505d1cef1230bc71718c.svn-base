@@ -1,0 +1,179 @@
+package com.boc.fiserv.response;
+
+import java.math.BigInteger;
+import java.util.Date;
+import java.util.List;
+
+public class CustomerProfileRs 
+{
+	String ErrorCode;
+	String ErrorDescription;
+	List <String> cifList;
+	String customerType;
+	String shortName;
+	String fullName;
+	String name;
+	String nationalId;
+	String passportId;	//For Future Reference
+	String dob;
+	int age;
+	String martialStatus;
+	BigInteger dependents;
+	String address;
+	String residencePhone;
+	String mobilePhone;
+	String emailAddress;
+	String taxFileCheck;
+	String taxFileNo;
+	String genderCode;
+	String citizencode;
+	String saluation;
+	String nationality;
+	
+	
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public String getErrorCode() {
+		return ErrorCode;
+	}
+	public void setErrorCode(String errorCode) {
+		ErrorCode = errorCode;
+	}
+	public String getErrorDescription() {
+		return ErrorDescription;
+	}
+	public void setErrorDescription(String errorDescription) {
+		ErrorDescription = errorDescription;
+	}
+	public List<String> getCifList() {
+		return cifList;
+	}
+	public void setCifList(List<String> cifList) {
+		this.cifList = cifList;
+	}
+	
+	
+	
+	public String getCustomerType() {
+		return customerType;
+	}
+	public void setCustomerType(String customerType) {
+		this.customerType = customerType;
+	}
+	public String getShortName() {
+		return shortName;
+	}
+	public void setShortName(String shortName) {
+		this.shortName = shortName;
+	}
+	public String getFullName() {
+		return fullName;
+	}
+	public void setFullName(String fullName) {
+		this.fullName = fullName;
+	}
+	public String getNationalId() {
+		return nationalId;
+	}
+	public void setNationalId(String nationalId) {
+		this.nationalId = nationalId;
+	}
+	public String getPassportId() {
+		return passportId;
+	}
+	public void setPassportId(String passportId) {
+		this.passportId = passportId;
+	}
+	public String getDob() {
+		return dob;
+	}
+	public void setDob(String dob) {
+		this.dob = dob;
+	}
+	public int getAge() {
+		return age;
+	}
+	public void setAge(int age) {
+		this.age = age;
+	}
+	public String getMartialStatus() {
+		return martialStatus;
+	}
+	public void setMartialStatus(String martialStatus) {
+		this.martialStatus = martialStatus;
+	}
+	
+	public BigInteger getDependents() {
+		return dependents;
+	}
+	public void setDependents(BigInteger dependents) {
+		this.dependents = dependents;
+	}
+	public String getAddress() {
+		return address;
+	}
+	public void setAddress(String address) {
+		this.address = address;
+	}
+	public String getResidencePhone() {
+		return residencePhone;
+	}
+	public void setResidencePhone(String residencePhone) {
+		this.residencePhone = residencePhone;
+	}
+	public String getMobilePhone() {
+		return mobilePhone;
+	}
+	public void setMobilePhone(String mobilePhone) {
+		this.mobilePhone = mobilePhone;
+	}
+	public String getEmailAddress() {
+		return emailAddress;
+	}
+	public void setEmailAddress(String emailAddress) {
+		this.emailAddress = emailAddress;
+	}
+	public String getTaxFileCheck() {
+		return taxFileCheck;
+	}
+	public void setTaxFileCheck(String taxFileCheck) {
+		this.taxFileCheck = taxFileCheck;
+	}
+	public String getTaxFileNo() {
+		return taxFileNo;
+	}
+	public void setTaxFileNo(String taxFileNo) {
+		this.taxFileNo = taxFileNo;
+	}
+	public String getGenderCode() {
+		return genderCode;
+	}
+	public void setGenderCode(String genderCode) {
+		this.genderCode = genderCode;
+	}
+	public String getCitizencode() {
+		return citizencode;
+	}
+	public void setCitizencode(String citizencode) {
+		this.citizencode = citizencode;
+	}
+	public String getSaluation() {
+		return saluation;
+	}
+	public void setSaluation(String saluation) {
+		this.saluation = saluation;
+	}
+	public String getNationality() {
+		return nationality;
+	}
+	public void setNationality(String nationality) {
+		this.nationality = nationality;
+	}
+	
+	
+
+}
