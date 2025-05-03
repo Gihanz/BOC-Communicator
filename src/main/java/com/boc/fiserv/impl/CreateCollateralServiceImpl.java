@@ -38,7 +38,7 @@ import com.boc.utils.GenerateUUID;
 import com.boc.utils.InvokeCommunicatorUtil;
 
 /*
-Created By SaiMadan on Jul 20, 2016
+Created By Gihan on Jul 20, 2016
 */
 public class CreateCollateralServiceImpl extends BaseServiceImpl implements CreateCollateralService
 {

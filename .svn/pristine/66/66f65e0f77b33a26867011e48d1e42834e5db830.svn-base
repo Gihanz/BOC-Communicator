@@ -20,7 +20,7 @@ import com.boc.fiserv.response.StandingOrderResponse;
 import com.boc.utils.InvokeCommunicatorUtil;
 
 /*
-Created By SaiMadan on May 2, 2017
+Created By Gihan on May 2, 2017
 */
 public class StandingOrderEnquiryImpl extends  BaseServiceImpl implements StandingOrderEnquiry  
 {

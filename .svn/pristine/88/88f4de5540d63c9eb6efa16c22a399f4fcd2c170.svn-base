@@ -36,7 +36,7 @@ import com.boc.utils.GenerateUUID;
 import com.boc.utils.InvokeCommunicatorUtil;
 
 /*
-Created By SaiMadan on Mar 9, 2017
+Created By Gihan on Mar 9, 2017
 */
 public class CustProfBasicAddServiceImpl2 extends BaseServiceImpl implements CustProfBasicAddService
 {

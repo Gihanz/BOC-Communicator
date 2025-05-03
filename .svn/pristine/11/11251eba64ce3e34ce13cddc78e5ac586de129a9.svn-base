@@ -32,7 +32,7 @@ import com.boc.utils.GenerateUUID;
 import com.boc.utils.InvokeCommunicatorUtil;
 
 /*
-Created By SaiMadan on Apr 23, 2017
+Created By Gihan on Apr 23, 2017
 */
 public class CreateAlternateAddressServiceImpl extends BaseServiceImpl implements  CreateAlternateAddressService
 {

@@ -5,7 +5,7 @@ package com.boc.response;
 import java.sql.Blob;
 
 /*
-Created By SaiMadan on Jun 30, 2016
+Created By Gihan on Jun 30, 2016
 */
 public class MessageTransactionsBean 
 {

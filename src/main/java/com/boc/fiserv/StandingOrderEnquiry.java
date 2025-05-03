@@ -4,7 +4,7 @@ package com.boc.fiserv;
 
 
 /*
-Created By SaiMadan on May 2, 2017
+Created By Gihan on May 2, 2017
 */
 public interface StandingOrderEnquiry
 {

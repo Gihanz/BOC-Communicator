@@ -22,7 +22,7 @@ import com.boc.utils.GenerateUUID;
 import com.boc.utils.InvokeCommunicatorUtil;
 
 /*
-Created By SaiMadan on Sep 9, 2016
+Created By Gihan on Sep 9, 2016
 */
 public class DateCalcInqServiceImpl extends BaseServiceImpl {
 	private static Logger log = LoggerFactory.getLogger(DateCalcInqServiceImpl.class);

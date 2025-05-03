@@ -10,7 +10,7 @@ import javax.xml.bind.JAXBException;
 import com.boc.fiserv.response.CreateCollateralResponse;
 
 /*
-Created By SaiMadan on Jul 20, 2016
+Created By Gihan on Jul 20, 2016
 */
 public interface CreateCollateralService {
 	public CreateCollateralResponse execute(HashMap parametersMap) throws JAXBException,Exception;

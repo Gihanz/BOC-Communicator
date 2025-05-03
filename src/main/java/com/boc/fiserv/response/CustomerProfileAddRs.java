@@ -5,7 +5,7 @@ package com.boc.fiserv.response;
 import java.math.BigInteger;
 
 /*
-Created By SaiMadan on Mar 20, 2017
+Created By Gihan on Mar 20, 2017
 */
 public class CustomerProfileAddRs {
 	

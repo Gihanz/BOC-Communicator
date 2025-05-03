@@ -3,7 +3,7 @@
 package com.boc.fiserv.response;
 
 /*
-Created By SaiMadan on Apr 13, 2017
+Created By Gihan on Apr 13, 2017
 */
 public class CreateCustToCustAddResponse {
 

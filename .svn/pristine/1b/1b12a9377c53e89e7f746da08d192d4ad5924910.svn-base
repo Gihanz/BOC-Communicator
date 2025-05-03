@@ -3,7 +3,7 @@
 package com.boc.fiserv.response;
 
 /*
-Created By SaiMadan on Jul 20, 2016
+Created By Gihan on Jul 20, 2016
 */
 public class CreateCollateralResponse {
 	String collateralId;

@@ -3,7 +3,7 @@
 package com.boc.response;
 
 /*
-Created By SaiMadan on Jun 29, 2016
+Created By Gihan on Jun 29, 2016
 */
 public class MessageTypeBaseBean 
 {

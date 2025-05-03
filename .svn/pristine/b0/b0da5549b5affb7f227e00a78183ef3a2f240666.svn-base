@@ -5,7 +5,7 @@ package com.boc.fiserv.response;
 import java.util.Date;
 
 /*
-Created By SaiMadan on Sep 9, 2016
+Created By Gihan on Sep 9, 2016
 */
 public class CalcDateResponse {
 	

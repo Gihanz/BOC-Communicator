@@ -62,7 +62,7 @@ import com.boc.utils.GenerateUUID;
 import com.boc.utils.InvokeCommunicatorUtil;
 
 /*
-Created By SaiMadan on Jun 24, 2016
+Created By Gihan on Jun 24, 2016
 */
 public class LoanAcctAddServiceImpl  extends BaseServiceImpl implements LoanAcctAddService
 {

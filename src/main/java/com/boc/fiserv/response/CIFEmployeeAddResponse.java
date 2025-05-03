@@ -3,7 +3,7 @@
 package com.boc.fiserv.response;
 
 /*
-Created By SaiMadan on Mar 22, 2017
+Created By Gihan on Mar 22, 2017
 */
 public class CIFEmployeeAddResponse {
 	String ErrorCode;

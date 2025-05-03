@@ -6,7 +6,7 @@ import java.math.BigDecimal;
 import java.util.List;
 
 /*
-Created By SaiMadan on Apr 12, 2017
+Created By Gihan on Apr 12, 2017
 */
 public class AccountLstInqResponse 
 {

@@ -31,7 +31,7 @@ import com.boc.utils.GenerateUUID;
 import com.boc.utils.InvokeCommunicatorUtil;
 
 /*
-Created By SaiMadan on Apr 19, 2017
+Created By Gihan on Apr 19, 2017
 */
 public class ChequeAddServiceImpl   extends BaseServiceImpl implements ChequeAddService
 {

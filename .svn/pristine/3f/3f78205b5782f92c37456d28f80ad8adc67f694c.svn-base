@@ -3,7 +3,7 @@
 package com.boc.fiserv.response;
 
 /*
-Created By SaiMadan on Apr 23, 2017
+Created By Gihan on Apr 23, 2017
 */
 public class AltAdressAddResponse 
 {

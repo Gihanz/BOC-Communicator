@@ -3,7 +3,7 @@
 package com.boc.response;
 
 /*
-Created By SaiMadan on Aug 31, 2016
+Created By Gihan on Aug 31, 2016
 */
 public class StatusBean 
 {

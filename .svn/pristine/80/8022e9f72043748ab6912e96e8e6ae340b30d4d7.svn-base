@@ -5,7 +5,7 @@ package com.boc.fiserv.response;
 import java.math.BigDecimal;
 
 /*
-Created By SaiMadan on May 2, 2017
+Created By Gihan on May 2, 2017
 */
 public class StandingOrderResponse 
 {

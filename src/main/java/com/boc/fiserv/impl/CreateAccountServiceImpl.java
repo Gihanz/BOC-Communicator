@@ -44,7 +44,7 @@ import com.boc.utils.GenerateUUID;
 import com.boc.utils.InvokeCommunicatorUtil;
 
 /*
-Created By SaiMadan on Apr 10, 2017
+Created By Gihan on Apr 10, 2017
 */
 public class CreateAccountServiceImpl extends BaseServiceImpl implements CreateAccountService
 {

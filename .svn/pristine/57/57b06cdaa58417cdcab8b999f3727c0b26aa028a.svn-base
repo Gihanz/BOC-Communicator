@@ -5,7 +5,7 @@ package com.boc.fiserv.response;
 import java.math.BigDecimal;
 
 /*
-Created By SaiMadan on Apr 24, 2017
+Created By Gihan on Apr 24, 2017
 */
 public class AccountFundingListBean 
 {

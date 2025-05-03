@@ -10,7 +10,7 @@ import javax.xml.bind.JAXBException;
 import com.boc.fiserv.response.LoanAcctAddResponse;
 
 /*
-Created By SaiMadan on Jun 24, 2016
+Created By Gihan on Jun 24, 2016
 */
 public interface LoanAcctAddService {
 

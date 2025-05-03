@@ -3,7 +3,7 @@
 package com.boc.fiserv.response;
 
 /*
-Created By SaiMadan on Jul 1, 2016
+Created By Gihan on Jul 1, 2016
 */
 public class LoanAcctAddResponse 
 {
